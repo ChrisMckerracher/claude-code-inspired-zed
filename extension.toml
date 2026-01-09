@@ -1,0 +1,23 @@
+id = "claude-anthropic"
+name = "Claude Anthropic"
+version = "1.0.0"
+schema_version = 1
+description = "Claude/Anthropic inspired theme for Zed with warm beige tones, coral accents, and excellent readability. Includes both light and dark variants."
+repository = "https://github.com/chrismck/claude-anthropic-zed"
+authors = ["Chris McK"]
+themes = ["themes/claude-light.json", "themes/claude-dark.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
